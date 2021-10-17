@@ -8,27 +8,21 @@
 ### clone の仕方
 
     C:\xampp\htdocs
-    
 
 にこのリポジトリを clone する。
 
 [github を使った共同作業の手順](https://qiita.com/future_kame/items/9fa256aea09faa28b357)
 
-### Gitのコマンド
-        
+### DB 作成(みんなやる)
+
+[DB 作成ページ](DB.md)
+
+### Git のコマンド
+
         git pull origin ブランチ名(切る前mainかMaster)
 
-
-
-### いなおか
-
-
-
-### カワノ 
+### カワノ
 
 ### なかやま
 
 ### 内山
-
-
-
