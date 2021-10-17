@@ -51,6 +51,7 @@
 | `image_id`     | INT      | -    |                                                           |
 | `year_start`   | DATE     | -    |                                                           |
 | `year_end`     | DATE     | -    |                                                           |
+| `generation`   | INT      | -    |                                                           |
 | `glass_flag`   | INT      | -    |                                                           |
 | `updated_at`   | DATETIME | -    |                                                           |
 | `created_at`   | DATETIME | -    |                                                           |
