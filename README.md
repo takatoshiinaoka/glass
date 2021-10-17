@@ -22,8 +22,4 @@
 
         git pull origin ブランチ名(切る前mainかMaster)
 
-### カワノ
 
-### なかやま
-
-### 内山
