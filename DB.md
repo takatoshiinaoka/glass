@@ -46,7 +46,7 @@
 |`glass_id`|INT|12|インデックスを「PRIMARY」に設定．</br>「A_I」にチェック．|
 |`glass_name`|VARCHAR|128||
 |`maker`|VARCHAR|128||
-|`model_number`|INT|-||
+|`model_number`|VARCHAR|128||
 |`tag_id`|INT|-||
 |`user_id`|INT|-||
 |`image_id`|INT|-||
