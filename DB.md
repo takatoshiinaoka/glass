@@ -17,7 +17,7 @@
 
 1. 左側のDB一覧から前項で作成したDBを選択する．
 2. 名前欄に「`users`」を入力（テーブル名）．
-3. カラム数を「6」に設定する．
+3. カラム数を「7」に設定する．
 4. 「Go」ボタンをクリック．
 
 ### カラムの設定
@@ -27,7 +27,7 @@
 |`user_id`|INT|12|インデックスを「PRIMARY」に設定．</br>「A_I」にチェック．|
 |`user_name`|VARCHAR|128||
 |`mail`|VARCHAR|128||
-|`password`|DATE|-||
+|`password`|VARCHAR|128||
 |`user_flag`|INT|-||
 |`created_at`|DATETIME|-||
 |`updated_at`|DATETIME|-||
