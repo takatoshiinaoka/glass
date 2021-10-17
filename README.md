@@ -18,7 +18,7 @@
         
         git pull origin ブランチ名(切る前mainかMaster)
 
-### aaaaa
+
 
 ### いなおか
 
