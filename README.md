@@ -18,6 +18,7 @@
 [DB 作成ページ](DB.md)
 
 ### Git のコマンド
+自分がプッシュする間に他の人がプッシュした場合，自分のBranchにプルする．
 
         git pull origin ブランチ名(切る前mainかMaster)
 
