@@ -41,19 +41,19 @@
 
 ### カラムの設定
 
-| カラム名       | データ型 | 長さ | その他設定項目                                            |
-| -------------- | -------- | ---- | --------------------------------------------------------- |
-| `glass_id`     | INT      | 12   | インデックスを「PRIMARY」に設定．</br>「A_I」にチェック． 　　|
-| `maker`        | VARCHAR  | 128  |                                                           |
-| `model_number` | VARCHAR  | 128  |                                                           |
-| `user_id`      | INT      | -    |                                                           |
-| `image_id`     | INT      | -    |                                                           |
-| `year_start`   | DATE     | -    |                                                           |
-| `year_end`     | DATE     | -    |                                                           |
-| `generation`   | INT      | -    |                                                           |
-| `glass_flag`   | INT      | -    |                                                           |
-| `updated_at`   | DATETIME | -    |                                                           |
-| `created_at`   | DATETIME | -    |                                                           |
+| カラム名       | データ型 | 長さ | その他設定項目                                                 |
+| -------------- | -------- | ---- | -------------------------------------------------------------- |
+| `glass_id`     | INT      | 12   | インデックスを「PRIMARY」に設定．</br>「A_I」にチェック． 　　 |
+| `maker`        | VARCHAR  | 128  |                                                                |
+| `model_number` | VARCHAR  | 128  |                                                                |
+| `user_id`      | INT      | -    |                                                                |
+| `image_id`     | INT      | -    |                                                                |
+| `year_start`   | DATE     | -    |                                                                |
+| `year_end`     | DATE     | -    |                                                                |
+| `generation`   | INT      | -    |                                                                |
+| `glass_flag`   | INT      | -    |                                                                |
+| `updated_at`   | DATETIME | -    |                                                                |
+| `created_at`   | DATETIME | -    |                                                                |
 
 全て入力したら右下の「保存する」をクリック！！
 
@@ -98,7 +98,7 @@
 | カラム名     | データ型 | 長さ | その他設定項目                                            |
 | ------------ | -------- | ---- | --------------------------------------------------------- |
 | `image_id`   | INT      | 12   | インデックスを「PRIMARY」に設定．</br>「A_I」にチェック． |
-| `image_path` | VARCHAR  | 128  |                                                           |
+| `image_name` | VARCHAR  | 128  |                                                           |
 | `image_flag` | INT      | -    |                                                           |
 | `updated_at` | DATETIME | -    |                                                           |
 | `created_at` | DATETIME | -    |                                                           |
