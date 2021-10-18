@@ -17,7 +17,7 @@
 
 [DB 作成ページ](glass/Document/DB.md)
 
-[DB](glass/Document/DB_addData.md)
+[DB にデータを挿入](glass/Document/DB_addData.md)
 
 ### Git のコマンド
 
