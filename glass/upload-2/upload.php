@@ -36,3 +36,6 @@ if(isset($_POST["submit"]) && !empty($_FILES["file"]["name"])){
 // ステータスメッセージを表示
 echo $statusMsg;
 ?>
+<form action="./index.php" method="POST">
+        <input type="submit" name="upload"
+	value="アップロード">
